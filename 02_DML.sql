@@ -2,7 +2,7 @@
 /*
 DQL - Data Query Language 
 1) Select - Helps us to select data frome Table
-DDL - Data Manuplation Language
+DML - Data Manuplation Language
 1) Insert - use to insert values in Table
 2) Update - helps us to update single and multiple records with Where Clause
 3) Delete - Delete is used to delete existing Record
